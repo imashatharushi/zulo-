@@ -1,0 +1,10 @@
+☐ decide db tables 
+    ✔ users @done(24-09-23 11:24)
+    
+✔ create login table @done(24-10-11 21:20)
+✔ create single productcard template @done(24-10-11 21:20)
+
+--------------------------------------------------
+✔ logout handler @done(24-10-06 21:50)
+
+☐ when user not loggin if user clicked add to cart or wishlist button block that req and send user in to loggin form 

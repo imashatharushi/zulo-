@@ -1,0 +1,30 @@
+html[data-bs-theme=dark] nav {
+  background-color: #212529 !important;
+}
+html[data-bs-theme=dark] nav .search-bar {
+  border-left: 5px solid #fff !important;
+}
+html[data-bs-theme=dark] nav .search-btn button {
+  background-color: #212529 !important;
+  color: #fff !important;
+}
+html[data-bs-theme=dark] nav ul li .nav-link::before {
+  border-color: #fff;
+}
+html[data-bs-theme=dark] nav .control-center button {
+  color: #fff;
+  border: 1px solid #0d6efd !important;
+}
+html[data-bs-theme=dark] nav .control-center button:hover {
+  background-color: #0d6efd;
+  z-index: 0;
+}
+html[data-bs-theme=dark] nav .cart-items {
+  background-color: #212529 !important;
+}
+html[data-bs-theme=dark] footer {
+  background-color: #000;
+}
+html[data-bs-theme=dark] .social-media-icons a {
+  color: #fff !important;
+}/*# sourceMappingURL=darkmode.css.map */
